@@ -1,0 +1,331 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+}
+body{
+    font-family: 'Alegreya Sans', sans-serif;
+
+
+}
+
+.clr{
+    clear: both;
+}
+.home{
+    height: 100vh;
+    font-family: 'Alegreya Sans', sans-serif;
+    background-image: url(./imgs/drew-coffman-1872.jpg);
+    background-size: 100% 100%;
+    background-position: center center;
+    overflow: auto;
+    
+}
+
+.nav .nav-logo{
+    width: 13%;
+    margin-top: 10px;
+}
+
+.nav-logo img {
+    width: 100%;
+    float: left;
+}
+.nav-links ul {
+    float: right;
+}
+.nav-links ul li {
+    list-style-type: none;
+    float: left;
+    padding: 15px;
+    margin-top: 10px;
+}
+.nav-links ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
+.home-cap{
+    text-align: center;
+    color: white;
+    margin-top: 150px;
+    
+    
+}
+.home-cap p{
+    font-size: 20px;
+    margin: 10px 0px 20px;
+    color: #FFFFFFEB;
+    font-weight: bold;
+}
+.home-cap h4 {
+    font-size: 25px;
+}
+.home-cap h1{
+    font-size: 55px;
+    font-weight: bold;
+    margin: 20px 0px ;
+}
+.btn{
+    padding: 17px;
+    font-size: 15px;
+    border-radius: 5px;
+    color: white;
+    margin: 20px 5px;
+
+}
+.home-cap .btn1{
+background-color: #8e7754;
+border-width: 0;
+}
+.home-cap .btn2{
+    background-color: transparent;
+    border: 2px solid white;
+}
+
+/* section 2 */
+.about{
+    width: 90%;
+    margin: auto;
+    margin-top: 40px;
+
+
+}
+.about-cap{
+    width: 40%;
+    float: right;
+    margin-top: 50px;
+    padding: 20px;
+    margin-right: 20px;
+    color: #868686;
+    font-size: 18px;
+    
+}
+.about-cap p {
+margin: 30px 0;
+font-size: 20px;
+
+}
+.img-about {
+width: 40%;
+float: left;
+}
+.img-about img {
+    width: 100%;
+}
+.aboutList{
+    text-align: left;
+}
+.aboutList ul li {
+    padding: 15px;
+    font-size: 20px;
+}
+.about-cap h2 {
+    color: #000;
+    font-size: 32px;
+}
+
+/* our offer */
+
+.offer{
+width: 90%;
+margin: auto;
+margin-top: 30px;
+}
+.offer-cap{
+    width: 40%;
+    float: left;
+    margin: 70px 90px 0px;
+    text-align: center;
+    
+}
+.offer-cap p{
+    color: #868686;
+
+}
+.offer-cap h2 {
+    font-size: 32px;
+}
+.offer-img{
+    width: 40%;
+    float: right;
+}
+.offer-img img {
+    width: 100%;
+}
+.para{
+    margin: 30px 0px;
+    font-size: 20px;
+    color: #868686;
+
+}
+.para2{
+    font-size: 20px;
+}
+
+/* our bakery */
+.bakery{
+    text-align: center;
+margin-top: 50px;
+}
+.meals{
+    width: 90%;
+    margin: auto;
+}
+.meal{
+    width: 33%;
+    text-align: center;
+    float: left;
+}
+.meal p {
+    margin: 10px 0px;
+    font-size: 20px;
+}
+
+.meal .inner img {
+    width: 100%;
+}
+.inner{
+    padding: 30px;
+}
+.bakery h3 {
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+.inner h5{
+    font-size: 20px;
+}
+.bakery p {
+    font-size: 25px;    
+    color: #868686;
+
+}
+
+/* contact info */
+.blog{
+    width: 90%;
+    margin: auto;
+    padding: 85px 331.5px;
+    background-color: #f8f8f8;
+}
+.blog-cap{
+    width: 50%;
+    float: left;
+    text-align: left;
+    margin-top: 49px;
+    height: 400px;
+}
+.contact-map{
+    width: 40%;
+    float: right;
+}
+.contact-map iframe {
+    width: 100%;
+}
+.blog-cap  .blog-para {
+    margin: 20px 0px;
+color: #868686;
+}
+.blog-cap ul li {
+    padding: 15px 0px 15px 52px;
+    font-size: 22px;
+}
+.details{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.blog-para{
+    font-size: 20px;
+}
+
+/* footer */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
